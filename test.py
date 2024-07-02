@@ -9,7 +9,7 @@ stars = [
      {"name": "Sirius", "ra": 101.2875, "dec": -16.7161},
      {"name": "Betelgeuse", "ra": 88.7929, "dec": 7.4071},
      {"name": "Rigel", "ra": 78.6345, "dec": -8.2016},
-      "name": "Sun", "ra": 56.89, "dec": -25.67},
+    #  {"name": "Sun", "ra":  }
      # Add more stars as needed
  ]
 # planets = [
